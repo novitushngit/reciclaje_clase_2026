@@ -6,7 +6,7 @@ import tensorflow as tf
 from PIL import Image
 
 st.set_page_config(page_title="Recicjale Computacion en la nube", layout="centered")
-st.title("Modelo predictivo Reciclaje clase de IA-UTH -2026-Asalia Zavala")
+st.title("Modelo predictivo Reciclaje clase de IA-UTH -2026-Oscar Lopez")
 st.write("Suba una imagen para clasificar con el modelo MobileNetV2 pre entrenado")
 
 IMG_SIZE=(224,224)
